@@ -7,7 +7,7 @@
 //
 class google_tts extends module {
 /**
-* yandex_tts
+* google_tts
 *
 * Module class constructor
 *
